@@ -24,7 +24,7 @@ country roads driving scene, and this was the result!
 I haven't had any issues with it running on emulator (specifically emulicious), and it also works
 great on my Japanese Mega Drive model 2 (which is where I captured footage for the gifs in this repository).
 However, every time I load it onto my Master Everdrive, the first time I run it on my Sega Mark III, the 
-HBlank interval gets messed up and ruins the scrolling the first time I try and run it. Everytime after that
+HBlank interval gets messed up and ruins the scrolling. Everytime after that
 though it runs perfectly fine on the real hardware. 
 
 ### Credits

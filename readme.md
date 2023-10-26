@@ -2,7 +2,7 @@
 A simple American country side with a PSG cover of Take Me Home, Country Roads used as practice
 for raster effects, audio implementation, and music arrangement for the Sega Mark III/Sega Master System.
 
-![](https://github.com/Bofner/Country-Roads-SMS/blob/main/images/realHardware.gif)
+![](https://github.com/Bofner/Country-Roads-SMS/blob/main/gitHub%20Images/CRSample.gif)
 
 You're missing the best part by just watching this GIF... so why not download the ROM and try it out!
 

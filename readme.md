@@ -28,5 +28,7 @@ though it runs perfectly fine on the real hardware.
 
 ### Credits
 Programming and art by Cameron "Bofner" Mitchell
+
 Music arranged by Margherita Romaniello
+
 Original composition by Bill Danoff, Taffy Nivert and John Denver

@@ -47,4 +47,6 @@ Graphics converted to SMS data via Maxim's BMP2TileGUI
 
 Written in the IDE Visual Studio Code
 
+Tested and debugged using Emulicious (https://emulicious.net/)
+
 And of course, so much knowledge gained over the years from the wonderful folks at smspower.org 

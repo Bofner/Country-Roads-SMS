@@ -5,6 +5,7 @@ for raster effects, audio implementation, and music arrangement for the Sega Mar
 ![](https://github.com/Bofner/Country-Roads-SMS/blob/main/gitHub%20Images/CRSample.gif)
 
 You're missing the best part by just watching this GIF... so why not download the ROM and try it out!
+Also a perfect, short loop is impossible, sorry!
 
 ### Project History
 This is a project that I worked on with my friend, Marghe, on the side during development of 

@@ -33,3 +33,18 @@ Programming and art by Cameron "Bofner" Mitchell
 Music arranged by Margherita Romaniello
 
 Original composition by Bill Danoff, Taffy Nivert and John Denver
+
+----------------------------------------------------------------------------------------------------------------
+Music arranged using Deflemask and exported as VGM
+
+VGM converted to PSG using Calindro's PSGTool
+
+Music played back on SMS using sverx's PSGLib
+
+Graphics made using Aseprite
+
+Graphics converted to SMS data via Maxim's BMP2TileGUI
+
+Written in the IDE Visual Studio Code
+
+And of course, so much knowledge gained over the years from the wonderful folks at smspower.org 
